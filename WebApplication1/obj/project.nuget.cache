@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "tQFNCrurJwA=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\heged\\source\\repos\\Hegi7\\devops\\WebApplication1\\WebApplication1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\heged\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.22.1\\microsoft.visualstudio.azure.containers.tools.targets.1.22.1.nupkg.sha512"
+  ],
+  "logs": []
+}
